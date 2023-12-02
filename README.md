@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a frealance frontend developer.
+- 💼 &nbsp; Working as a freelance frontend developer.
 - 🌱 &nbsp; Learning more about Desigm patterns and new technologies and new ways to get better.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
